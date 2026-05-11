@@ -1,5 +1,5 @@
-# SD-LoRA-Anime-Style
-### A documented instantiation of LoRA + trigger-token diffusion adaptation under consumer-hardware constraints
+# Consumer SD Pipeline Study
+### A documented study of LoRA + trigger-token diffusion adaptation and custom-autoencoder integration, under consumer-hardware constraints
 
 Parameter-efficient adaptation of large diffusion models is a well-
 established space (LoRA, DreamBooth, Textual Inversion, and variants),
@@ -434,8 +434,8 @@ The best LoRA weights and the custom AE checkpoint are shipped in
 
 ```bash
 git lfs install
-git clone https://github.com/hansjohn819-commits/sd-lora-anime-style.git
-cd sd-lora-anime-style
+git clone https://github.com/hansjohn819-commits/consumer-sd-pipeline-study.git
+cd consumer-sd-pipeline-study
 pip install -r requirements.txt
 
 # Inference with shipped weights
