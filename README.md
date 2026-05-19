@@ -1,5 +1,5 @@
-# Consumer SD Pipeline Study
-### A documented study of LoRA + trigger-token diffusion adaptation and custom-autoencoder integration, under consumer-hardware constraints
+# LoRA Fine-Tuning of Stable Diffusion Models for Style Transfer
+### A documented design-rationale study, extended with a custom-autoencoder integration experiment, under consumer-hardware constraints
 
 Parameter-efficient adaptation of large diffusion models is a well-
 established space (LoRA, DreamBooth, Textual Inversion, and variants),
